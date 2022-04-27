@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>53585757821-fs0cavr7ar122gvatcl3ejajbnm16dlh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.53585757821-fs0cavr7ar122gvatcl3ejajbnm16dlh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>53585757821-mi75gonmh2cflcmlbqvvoghueia2esmb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAXDPRzQ9Bg2AHeX5IoZtyIAfb2ZX0HUl8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>53585757821</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>RopeelApp</string>
+	<key>PROJECT_ID</key>
+	<string>ropeel-19981</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ropeel-19981.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:53585757821:ios:67552c572f73f56e76d314</string>
+	<key>DATABASE_URL</key>
+	<string>https://ropeel-19981.firebaseio.com</string>
+</dict>
+</plist>

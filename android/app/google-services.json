@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "53585757821",
+    "firebase_url": "https://ropeel-19981.firebaseio.com",
+    "project_id": "ropeel-19981",
+    "storage_bucket": "ropeel-19981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53585757821:android:390e6f5fe9e70f2276d314",
+        "android_client_info": {
+          "package_name": "com.ropeelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53585757821-mi75gonmh2cflcmlbqvvoghueia2esmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ropeelapp",
+            "certificate_hash": "65d068383b702f22e1e40f23d1c11b8992d619a5"
+          }
+        },
+        {
+          "client_id": "53585757821-bib1km74em9bughffbidqc6s9paduibl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG8DE-OCkRvh0IePtTXoR4qvrY7Gf8AQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53585757821-bib1km74em9bughffbidqc6s9paduibl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
